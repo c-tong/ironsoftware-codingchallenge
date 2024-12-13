@@ -11,3 +11,5 @@
      - Handle multiple input of the same number
      - Handle input without number
      - Handle multiple input of the *
+
+#Tech Stacks : .NET CORE v9.0
